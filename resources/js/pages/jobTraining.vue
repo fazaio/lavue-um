@@ -1,6 +1,6 @@
 <template>
   <div>
-      This is about
+      <h1>job training</h1>
   </div>
 </template>
 
